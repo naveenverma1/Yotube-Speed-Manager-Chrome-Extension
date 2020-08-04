@@ -83,11 +83,11 @@ function addExtra(value) {
 
 document.addEventListener('DOMContentLoaded', function () {
 	document.querySelector("#about").addEventListener("click", function () {
-		window.open("https://github.com/igrigorik/videospeed");
+		window.open("https://github.com/naveenverma1/Yotube-Speed-Manager-Chrome-Extension");
 	});
 	
 	document.querySelector("#feedback").addEventListener("click", function () {
-		window.open("https://github.com/igrigorik/videospeed/issues");
+		window.open("https://github.com/naveenverma1/Yotube-Speed-Manager-Chrome-Extension/issues");
 	});
 	try {
 		document.getElementById("notValidNumText").innerHTML = "";
